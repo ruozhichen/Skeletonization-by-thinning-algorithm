@@ -37,3 +37,4 @@ All you have to do is just to change the 'input_path' to your input directory.
 
 ### Results
 
+![](https://github.com/ruozhichen/Skeletonization-by-thinning-algorithm/blob/master/show.jpg)
