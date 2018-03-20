@@ -1,7 +1,3 @@
-
-
-##Skeletonization by thinning algorithm
-
 The original code is from [Skeletonization-by-Zhang-Suen-Thinning-Algorithm](https://github.com/linbojin/Skeletonization-by-Zhang-Suen-Thinning-Algorithm).
 
 However, it must read .bmp(grey-image) as input. And the result is shown by plt.show().
@@ -27,7 +23,7 @@ Therefore, you don't need to convert RGBA to L before executing the code. And th
 			target1='output/%s_src.bmp'%name  # the binary image of the source
 			target2='output/%s_res.bmp'%name  # the skeletonization result
 			skeleton_extraction(source,target1,target2)
-All you have to do is just to change the 'input_path' to your input directory.
+All you have to do is just to **change the 'input_path' to your input directory**.
 
 ### Dependencies
 
